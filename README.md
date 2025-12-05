@@ -13,12 +13,7 @@ If you want to understand the guiding principles behind every system in this pro
 
 ## What This Repository Contains
 
-- SimConnect and FSUIPC integration experiments  
-- Motorised throttle and hardware interface logic  
-- Telemetry bridges for overlays and analytics  
-- Stable approach and energy state evaluation systems  
-- HUD and overlay prototypes  
-- General tooling that supports the broader flight environment  
+- Coming soon.
 
 This is a living ecosystem. Modules evolve, interlock, and compound over time.
 
