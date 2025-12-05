@@ -56,8 +56,6 @@ The point is to create a world that behaves as aviation behaves.
 ## The Simulation Should Push Back  
 A believable flight simulation needs consequences and state awareness.
 
-There doesn't need to be crash animations and drama.
-
 There is no need for crash animations or theatrics.
 What matters is that the simulator can recognise and acknowledge when you have:
 
