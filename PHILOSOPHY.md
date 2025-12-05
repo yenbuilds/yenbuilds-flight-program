@@ -56,7 +56,10 @@ The point is to create a world that behaves as aviation behaves.
 ## The Simulation Should Push Back  
 A believable flight simulation needs consequences and state awareness.
 
-Simply the ability for the sim to know when you have:
+There doesn't need to be crash animations and drama.
+
+There is no need for crash animations or theatrics.
+What matters is that the simulator can recognise and acknowledge when you have:
 
 - landed badly
 - exited the runway  
@@ -67,7 +70,7 @@ Simply the ability for the sim to know when you have:
 - mishandled energy  
 - violated logic or physics
 
-When a simulator cannot recognise these states — when a crash is indistinguishable from a landing, when a tail strike registers as nothing, when the aircraft can be slammed into the ground without acknowledgement — the experience loses tension. It becomes a toy with aircraft-shaped graphics.
+When the aircraft passes through objects without consequence, or when a crash is treated the same as a normal landing, the simulation breaks its own illusion. A tail strike that goes unacknowledged, or an impact that registers as nothing, removes all tension from the experience.
 
 Feedback is what gives flying weight.  
 A stable approach algorithm should tell you when you were not stable.  
