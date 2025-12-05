@@ -56,13 +56,9 @@ The point is to create a world that behaves as aviation behaves.
 ## The Simulation Should Push Back  
 A believable flight simulation needs consequences and state awareness.
 
-Not crash animations.  
-Not explosions.  
-Not dramatics.
-
 Simply the ability for the sim to know when you have:
 
-- landed badly  
+- landed badly
 - exited the runway  
 - stalled  
 - tail-struck  
