@@ -13,7 +13,19 @@ If you want to understand the guiding principles behind every system in this pro
 
 ## What This Repository Contains
 
-- Coming soon.
+### Test Flight Debriefs
+
+- [YB-TF-004-2025_12_05 - VNAV Speed Debrief](test-flight-debriefs/YB-TF-004-2025_12_05.md)
+- [YB-TF-005-2025_12_07 - Unstable 777 Autoland Debrief](test-flight-debriefs/YB-TF-005-2025_12_07.md)
+
+### Showcase
+
+- [Motorised Throttle and Generic Panel](showcase/motorised-throttle-and-generic-panel.png)
+
+### Systems
+
+- [HUD Overlay](systems/hud-overlay.png)
+- [MSFS Telemetry](systems/msfs-telemetry.jpg)
 
 This is a living ecosystem. Modules evolve, interlock, and compound over time.
 
