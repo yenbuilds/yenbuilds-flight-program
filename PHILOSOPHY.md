@@ -39,6 +39,45 @@ Verisimilitude is the point at which the experience earns your trust.
 
 ---
 
+## Beyond Imitation: Designing What *Could* Be  
+Verisimilitude is not only about copying reality. It is also about asking a different question:
+
+**Given the rules of aviation, what *else* could exist that would make flying clearer, smarter, or more meaningful?**
+
+The simulator is not bound by certification, hardware limits, or training doctrine. That makes it a place to explore two kinds of “what could be”:
+
+1. **Sim-native helpers** that make flying easier or clearer than real life, without breaking the internal logic of aviation.  
+2. **Conceptually new systems** that could never be trialled safely in the real world, but can mature in the simulator first.
+
+### 1. Sim-Native Helpers That Stay Truthful  
+Some tools would never survive in a real cockpit — not because they defy physics, but because they would overload or distract a real crew. In the sim, they can exist as honest training scaffolding:
+
+- **Stability and energy “ghost lines”**: visual guides or overlays that show where your speed, path, or power *should* be, while still obeying aerodynamics.  
+- **Decision-support hints**: subtle cues for “this STAR would fit your runway and arrival path best” or “you are on track for an unstable approach,” without teleporting or cheating physics.  
+- **De-brief first, then replay**: instant post-landing diagnostics that mark the flare, touchdown, G-load, drift, and energy picture in a way no real flight would ever show you.
+
+These systems are not realistic in a strict procedural sense — no airline will give you neon guidance lines over the runway — but they are truthful to the underlying physics and workload. They reduce friction and increase learning without breaking verisimilitude.
+
+The rule is simple:
+
+> If a tool reveals the logic of flight more clearly, without violating physics or consequence, it belongs.
+
+### 2. The Simulator as a Low-Risk Lab  
+The second category is more ambitious: using the sim as a testbed for ideas that *might* have a place in future aviation, or that are valuable purely within the sim world.
+
+- **New supervisory control laws** that watch the whole flight, not just a single autopilot mode.  
+- **Experimental scoring or coaching systems** that shape pilot behaviour over dozens of flights, not just one landing grade.  
+- **Novel cockpit symbology or overlays** that make energy, risk, or workload visible in ways real avionics never have.
+
+In the real world, experimenting with these concepts is slow, regulated, and expensive. In the sim, they can iterate quickly, fail safely, and evolve towards something genuinely new.
+
+The goal is not to create fantasy physics.  
+The goal is to ask: *If we respect physics and operational logic, what better tools or behaviours could exist?*
+
+The simulator becomes more than a replica. It becomes a small R&D lab for aviation ideas.
+
+---
+
 ## Craft Over Engineering  
 Engineering focuses on precision, specifications, and strict correctness.  
 Craft focuses on intent and outcome.
@@ -56,17 +95,17 @@ The point is to create a world that behaves as aviation behaves.
 ## The Simulation Should Push Back  
 A believable flight simulation needs consequences and state awareness.
 
-There is no need for crash animations or theatrics.
+There is no need for crash animations or theatrics.  
 What matters is that the simulator can recognise and acknowledge when you have:
 
-- landed badly
+- landed badly  
 - exited the runway  
 - stalled  
 - tail-struck  
 - struck an object  
 - exceeded limits  
 - mishandled energy  
-- violated logic or physics
+- violated logic or physics  
 
 When the aircraft passes through objects without consequence, or when a crash is treated the same as a normal landing, the simulation breaks its own illusion. A tail strike that goes unacknowledged, or an impact that registers as nothing, removes all tension from the experience.
 
@@ -94,7 +133,7 @@ The value comes from how these systems interlock:
 - telemetry driving overlays  
 - overlays informing decision-making  
 - scoring engines shaping pilot discipline  
-- physics cues, energy cues, and stability cues reinforcing the same narrative
+- physics cues, energy cues, and stability cues reinforcing the same narrative  
 
 The result is purposeful integration that strengthens the illusion of flight.
 
@@ -128,10 +167,11 @@ This entire project rests on a single conviction:
 
 **Realism is a checklist.  
 Verisimilitude is an experience.  
-Craft is the method that creates it.**
+Craft is the method that creates it.  
+Imagination is how we push it beyond imitation.**
 
 Everything in this repository is built around that philosophy.  
-If the outcome strengthens the illusion of flying, it belongs here.  
+If the outcome strengthens the illusion of flying — whether by mirroring reality or exploring what *could* exist — it belongs here.  
 If it adds technical complexity without improving the experience, it does not.
 
 ---
