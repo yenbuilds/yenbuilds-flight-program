@@ -9,6 +9,8 @@ If you want to understand the guiding principles behind every system in this pro
 
 **→ [YenBuilds Flight Simming Philosophy](PHILOSOPHY.md)**
 
+https://www.yenbuilds.com
+
 ---
 
 ## What This Repository Contains
