@@ -1,7 +1,7 @@
 # The YenBuilds Flight Simming Philosophy  
 ## Craft Over Engineering. Verisimilitude Over Realism.
 
-The usual dividing line in flight simulation is between the “full-fidelity realists” and the casual hobbyists. Neither group defines what I am building here. The YenBuilds ecosystem is driven by a different principle:
+The usual dividing line in flight simulation is between the “full-fidelity realists” and the casual hobbyists. Neither group defines what is being explored here. The YenBuilds ecosystem is driven by a different principle:
 
 **This is not about engineering precision for its own sake.  
 This is about craft — creating a believable aviation experience where every behaviour fits and makes sense.**
