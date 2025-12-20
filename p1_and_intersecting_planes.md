@@ -4,6 +4,10 @@ This document specifies the P1 contract using **ASCII-style formal notation**.
 
 No LaTeX rendering is assumed.
 
+I’m treating individual aircraft profiles, aircraft profile sharing, throttle profiles and sharing, flight log data, landing data, and other user-generated flight artifacts as belonging to a single operating plane (P1). These elements are unified into the same conceptual class for the purpose of the system context they are about to be embedded in, even though they may differ in implementation or lifecycle.
+
+P1 represents the current operating plane formed by the intersection of these artifacts. It does not exist in isolation; it must coherently intersect with other constraint planes, including the architectural and invariants plane, the user authentication and data-sharing plane, and additional planes not yet fully defined. The goal is for P1 to gel with these planes so growth does not introduce friction, special cases, or structural rewrites.
+
 ---
 
 ## 0. Primitive Sets and Notation
