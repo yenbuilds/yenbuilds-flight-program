@@ -1,14 +1,15 @@
+> [!CAUTION]
+> This is a living project. Even principles that appear fundamental today may evolve over time. The intent is not to fix conclusions in place, but to continue exploring, building, and observing what emerges from the YenBuilds MSFS platform.
+
 # YenBuilds Flight Simulation Ecosystem
 
 This repository contains the evolving tools, hardware interfaces, overlays, data bridges, and many other experimental systems.
 
-The goal here is not strict realism or checklist replication. 
+The goal at this stage, is not strict realism or checklist replication. 
 
-The goal is **verisimilitude** — a believable, coherent flying experience built through craft.
+The goal today, is a believable, coherent flying experience.
 
-If you want to understand the guiding principles behind every system in this project, read the philosophy document:
-
-**→ [YenBuilds Flight Simming Philosophy](PHILOSOPHY.md)**
+If you want to understand the guiding principles behind every system in this project.
 
 https://www.yenbuilds.com
 
