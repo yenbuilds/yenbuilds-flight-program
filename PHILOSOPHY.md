@@ -7,6 +7,7 @@ The usual dividing line in flight simulation is between the “full-fidelity rea
 This is about craft — creating a believable aviation experience where every behaviour fits and makes sense.**
 
 Realism is a narrow concept.  
+
 Verisimilitude is broader: the appearance of truth, the sense that the simulated world behaves in a way the real world would, even if the implementation is not identical.
 
 That is the goal.
@@ -15,6 +16,7 @@ That is the goal.
 
 ## It Begins With *Why*  
 Any simulation project without a clear *why* becomes pointless and rudderless.  
+
 People get lost chasing fidelity for its own sake — perfect procedures, perfect offsets, perfect checklists — without ever asking what experience they’re actually trying to create.
 
 The *why* of YenBuilds is simple:
@@ -22,6 +24,7 @@ The *why* of YenBuilds is simple:
 **To build a flight environment that feels truthful, behaves coherently, and compels disciplined, meaningful flying.**
 
 Without that *why*, the rest collapses into engineering busywork.  
+
 With it, every system has direction and purpose.
 
 ---
@@ -34,7 +37,9 @@ If something happens in the simulation, your brain should immediately accept it 
 If you take an action, the aircraft should react in a way that aligns with aviation logic — energy, physics, aerodynamics, workload, state, consequences.
 
 A simulator can fail to be “realistic” yet still be believable.  
+
 It can be “accurate” yet feel lifeless.  
+
 Verisimilitude is the point at which the experience earns your trust.
 
 ---
@@ -52,11 +57,7 @@ The simulator is not bound by certification, hardware limits, or training doctri
 ### 1. Sim-Native Helpers That Stay Truthful  
 Some tools would never survive in a real cockpit — not because they defy physics, but because they would overload or distract a real crew. In the sim, they can exist as honest training scaffolding:
 
-- **Stability and energy “ghost lines”**: visual guides or overlays that show where your speed, path, or power *should* be, while still obeying aerodynamics.  
-- **Decision-support hints**: subtle cues for “this STAR would fit your runway and arrival path best” or “you are on track for an unstable approach,” without teleporting or cheating physics.  
-- **De-brief first, then replay**: instant post-landing diagnostics that mark the flare, touchdown, G-load, drift, and energy picture in a way no real flight would ever show you.
-
-These systems are not realistic in a strict procedural sense — no airline will give you neon guidance lines over the runway — but they are truthful to the underlying physics and workload. They reduce friction and increase learning without breaking verisimilitude.
+TODO ...
 
 The rule is simple:
 
@@ -120,24 +121,6 @@ Verisimilitude requires the opposite: a machine that responds honestly.
 
 ---
 
-## Integrated Systems, Not Independent Widgets  
-A throttle is not an isolated lever.  
-An LED annunciator is not decoration.  
-A HUD overlay is not a gimmick.
-
-Each component is part of one coherent instrumented environment.
-
-The value comes from how these systems interlock:
-
-- hardware mirroring software state  
-- telemetry driving overlays  
-- overlays informing decision-making  
-- scoring engines shaping pilot discipline  
-- physics cues, energy cues, and stability cues reinforcing the same narrative  
-
-The result is purposeful integration that strengthens the illusion of flight.
-
----
 
 ## Meaningful Difficulty  
 Difficulty is only worthwhile if it teaches something about aviation logic.
@@ -171,7 +154,8 @@ Craft is the method that creates it.
 Imagination is how we push it beyond imitation.**
 
 Everything in this repository is built around that philosophy.  
-If the outcome strengthens the illusion of flying — whether by mirroring reality or exploring what *could* exist — it belongs here.  
+
+If the outcome strengthens the illusion of flying — whether by mirroring reality or exploring what *could* exist — it belongs.  
 If it adds technical complexity without improving the experience, it does not.
 
 ---
