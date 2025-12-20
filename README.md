@@ -28,7 +28,9 @@ https://www.yenbuilds.com
 ### Test Flight Debriefs
 
 - [YB-TF-004-2025_12_05 - VNAV Speed Debrief](test-flight-debriefs/YB-TF-004-2025_12_05.md)
+- [YB-TF-005-2025_12_-- - Failed Autoland](test-flight-debriefs/YB-TF-005-2025_12_--.md)
 - [YB-TF-005-2025_12_07 - Unstable 777 Autoland Debrief](test-flight-debriefs/YB-TF-005-2025_12_07.md)
+- [YB-TF-007-2025_12_15 - Successful 777 Autoland](test-flight-debriefs/YB-TF-007-2025_12_15.md)
 
 ### Showcase
 
