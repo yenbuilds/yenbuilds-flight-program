@@ -21,7 +21,7 @@ People get lost chasing fidelity for its own sake — perfect procedures, perfec
 
 The *why* of YenBuilds is simple:
 
-**To build a flight environment that feels truthful, behaves coherently, and compels disciplined, meaningful flying.**
+**To build an ecosystem of tools that feels truthful, behaves coherently, and compels disciplined, meaningful flying.**
 
 Without that *why*, the rest collapses into engineering busywork.  
 
@@ -33,7 +33,8 @@ With it, every system has direction and purpose.
 Verisimilitude does not require perfect procedures, accurate models of every system, or a full replication of airline SOP.  
 It requires coherence.
 
-If something happens in the simulation, your brain should immediately accept it as plausible.  
+If something happens in the simulation, your brain should immediately accept it as plausible.
+
 If you take an action, the aircraft should react in a way that aligns with aviation logic — energy, physics, aerodynamics, workload, state, consequences.
 
 A simulator can fail to be “realistic” yet still be believable.  
