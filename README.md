@@ -13,6 +13,16 @@ https://www.yenbuilds.com
 
 ---
 
+## Documentation
+
+- [PHILOSOPHY.md](PHILOSOPHY.md) — Core principles: craft over engineering, verisimilitude over realism
+- [PEDAGOGY.md](PEDAGOGY.md) — Learning theory fundamentals applied to flight training
+- [FDM.md](FDM.md) — Flight Data Monitoring formats and parameter reference
+- [SPEC_P1_AND_INTERSECTING_PLANES.md](SPEC_P1_AND_INTERSECTING_PLANES.md) — Formal specification of the P1 artifact plane and system architecture
+- [STRUCTURAL PROBLEMS.md](STRUCTURAL%20PROBLEMS.md) — Known issues and workflow friction points
+
+---
+
 ## What This Repository Contains
 
 ### Test Flight Debriefs
