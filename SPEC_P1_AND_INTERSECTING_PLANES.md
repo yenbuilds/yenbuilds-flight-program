@@ -1,6 +1,6 @@
 >[!CAUTION]
 >This does NOT actually make sense. This is a dump from iterating ideas with an LLM
->and serves no other purpose right now other than exploring possible ways to explore architectural constraints in software.
+>and serves no other purpose right now other than exploring possible ways to visualise architectural constraints in software.
 
 # Formal ASCII Specification of P1 (Phi) and Intersecting Planes
 
