@@ -17,7 +17,6 @@ https://www.yenbuilds.com
 
 ## Documentation
 
-- [PHILOSOPHY.md](PHILOSOPHY.md) — Core principles: craft over engineering, verisimilitude over realism
 - [PEDAGOGY.md](PEDAGOGY.md) — Learning theory fundamentals applied to flight training
 - [FDM.md](FDM.md) — Flight Data Monitoring formats and parameter reference
 
