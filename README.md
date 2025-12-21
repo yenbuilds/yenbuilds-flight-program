@@ -3,7 +3,7 @@
 
 # YenBuilds Ecosystem of Flight Simulation Tools
 
-This repository contains the evolving tools, hardware interfaces, overlays, data bridges, and many other experimental systems.
+This repository contains the evolving tools, hardware interfaces, overlays, data bridges, and many other experimental systems to be used with Flight Simulators.
 
 The goal at this stage, is not strict realism or checklist replication. 
 
