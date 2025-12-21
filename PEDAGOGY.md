@@ -141,7 +141,7 @@ If learning does not transfer to new contexts, it is not real learning.
 **Core idea**  
 Experts do not calculate more—they recognize patterns faster and earlier.
 
-**Implication for your overlay**  
+**Implication**  
 - Cluster flights into recognizable instability archetypes  
 - Use consistent labels for recurring patterns  
 - Help users anticipate outcomes before they occur
