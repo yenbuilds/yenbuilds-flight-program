@@ -1,5 +1,5 @@
 > [!CAUTION]
-> This is a living project. Even principles that appear fundamental today may evolve over time. The intent is not to fix conclusions in place, but to continue exploring, building, and observing what emerges from the YenBuilds MSFS platform.
+> This is a living project. Even principles that appear fundamental today may evolve over time. The intent is not to fix conclusions in place, but to continue exploring, building, and observing what emerges from the YenBuilds FS Ecosystem of Tools.
 
 # YenBuilds Flight Simulation Ecosystem
 
