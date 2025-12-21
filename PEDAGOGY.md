@@ -40,7 +40,7 @@ Instead of “Unstable approach detected,” use:
 **Core idea**  
 Human working memory is limited. Too much information prevents learning even if the information is correct.
 
-**Implication for your overlay**  
+**Implication**  
 - Show only phase-relevant information  
 - Suppress non-actionable data during high-workload phases  
 - Prefer symbolic or qualitative cues over raw numbers
@@ -59,7 +59,7 @@ Human working memory is limited. Too much information prevents learning even if 
 **Core idea**  
 True learning comes from understanding cause-and-effect relationships, not memorizing rules.
 
-**Implication for your overlay**  
+**Implication**  
 - Expose causal chains instead of isolated metrics  
 - Correlate pitch, power, configuration, and outcomes  
 - Make instability explainable, not mysterious
