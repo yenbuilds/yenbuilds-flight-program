@@ -20,8 +20,6 @@ https://www.yenbuilds.com
 - [PHILOSOPHY.md](PHILOSOPHY.md) — Core principles: craft over engineering, verisimilitude over realism
 - [PEDAGOGY.md](PEDAGOGY.md) — Learning theory fundamentals applied to flight training
 - [FDM.md](FDM.md) — Flight Data Monitoring formats and parameter reference
-- [SPEC_P1_AND_INTERSECTING_PLANES.md](SPEC_P1_AND_INTERSECTING_PLANES.md) — Formal specification of the P1 artifact plane and system architecture
-- [STRUCTURAL PROBLEMS.md](STRUCTURAL%20PROBLEMS.md) — Known issues and workflow friction points
 
 ---
 
@@ -30,7 +28,7 @@ https://www.yenbuilds.com
 ### Test Flight Debriefs
 
 - [YB-TF-004-2025_12_05 - VNAV Speed Debrief](test-flight-debriefs/YB-TF-004-2025_12_05.md)
-- [YB-TF-005-2025_12_-- - Failed Autoland](test-flight-debriefs/YB-TF-005-2025_12_--.md)
+- [YB-TF-006-2025_12_-- - Failed Autoland](test-flight-debriefs/YB-TF-005-2025_12_--.md)
 - [YB-TF-005-2025_12_07 - Unstable 777 Autoland Debrief](test-flight-debriefs/YB-TF-005-2025_12_07.md)
 - [YB-TF-007-2025_12_15 - Successful 777 Autoland](test-flight-debriefs/YB-TF-007-2025_12_15.md)
 
