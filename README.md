@@ -9,10 +9,6 @@ The goal at this stage, is not strict realism or checklist replication.
 
 The goal today, is to explore and develop tools that enhance the flight sim experience.
 
-If you want to understand the guiding principles behind every system in this project.
-
-https://www.yenbuilds.com
-
 ---
 
 ## Documentation
